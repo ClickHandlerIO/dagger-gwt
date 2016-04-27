@@ -53,7 +53,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <dagger.version>2.0.2</dagger.version>
-        <javax-inject-gwt.version>0.1.0</javax-inject-gwt.version>
+        <javax-inject-gwt.version>0.1.0-SNAPSHOT</javax-inject-gwt.version>
         <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
         <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
         <nexus-staging-maven-plugin.version>1.6.6</nexus-staging-maven-plugin.version>
